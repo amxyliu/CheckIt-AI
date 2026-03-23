@@ -1,0 +1,1 @@
+mention the ReLU Controversy. Some researchers (like Saxe et al.) argued that the "Compression Phase" only happens with older activation functions (like tanh) and might not be as visible with ReLU (which BERT uses). Adding this shows you’ve read the academic debates!
