@@ -7,3 +7,5 @@ mention the ReLU Controversy. Some researchers (like Saxe et al.) argued that th
 
 Why this is a "gotcha" for your markers:
 Many students assume "Bidirectional" just means "better." By explaining why you can't have a Bidirectional LR, you're proving you understand that LR treats data as a static snapshot, while Transformers/LSTMs treat data as a dynamic flow.
+
+"While the BERT and LSTM models exhibit a dynamic 'Compression Phase' across multiple hidden layers, the Logistic Regression baseline serves as a control group. Because it lacks hidden representations, its position on the Information Plane is static. It represents the 'Upper Bound' of what can be learned using simple linear weights without a neural bottleneck."
